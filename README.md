@@ -11,7 +11,14 @@ Before using it, you will need to make a new project in the Google Cloud Platfor
 - Enable the Google Maps API for that project
 - Setup the Billing for that project on GCP https://console.cloud.google.com/projectselector2/billing/enable
 - Change "API KEY" in to file "android\app\src\main\AndroidManifest.xml" directory
-- Add permission to you android/ios project 
+- Add permission to you android/ios project
+
+# Design Credit
+- https://www.behance.net/gallery/139860699/Free-Fitness-UI-Kit
+
+# Noted
+In this project I am not paying bill GoogleDirection Api, so direction route can't show. 
+If you want to show direct routes you have to pay for the api to work.
 
 This project is a starting point for a Flutter application.
 
