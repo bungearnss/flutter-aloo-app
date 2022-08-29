@@ -1,6 +1,6 @@
-# flutter_aloo_app
+## flutter_aloo_app
 
-# An Exercise app using Google Maps SDK
+An Exercise app using Google Maps SDK
 
 # ScreenShots
 ![6](https://user-images.githubusercontent.com/66944039/187177078-b87f6e3b-ec24-4b65-8342-a58fbd90365b.png)
